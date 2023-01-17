@@ -1,2 +1,2 @@
-# police-incidents-hs
-A hs project investigating Google search trend data in the aftermath of high-profile police incidents
+# Digital Humanities Projects
+Digital humanities projects from my senior year at the North Carolina School of Science and Mathematics.
